@@ -40,7 +40,7 @@ Mobile application · `Swift`
 🎮 [**Sahara Runner**](https://github.com/NorainAlmajed/Sahara-Runner)
 Game development · `C#`
 
-🌐 [**Advanced Project**](https://github.com/NorainAlmajed/Advanced-Project-S6-G2)
+🌐 [**Rentify**](https://github.com/NorainAlmajed/Advanced-Project-S6-G2)
 Web development · `HTML`
 
 ---
