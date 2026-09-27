@@ -4,7 +4,7 @@
 
 ### 🎓 Senior Programming Student · 💻 Aspiring Software Developer
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhjNXJsc2sxdDh3dW05c2llZDI4dDRpdXJvazZyN2RjaW9mbDU1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bg0mdxmTVzjWZHtGat/giphy.gif" width="350" alt="Iron Man coding"/>
+  <img src="./assets/iron-man.gif" width="350" alt="Iron Man coding"/>
 </p>
 
 **Building projects, exploring technology, and turning ideas into practical solutions. ✨**
