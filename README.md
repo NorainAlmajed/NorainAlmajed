@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🎓 Programming Student · 💻 Aspiring Software Developer
+### 🎓 Senior Programming Student · 💻 Aspiring Software Developer
 
 <img src="https://media3.giphy.com/media/Bg0mdxmTVzjWZHtGat/giphy.gif" width="350" alt="Iron Man"/>
 
