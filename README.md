@@ -48,15 +48,7 @@ Web development · `HTML`
 
 <div align="center">
 
-<a href="https://github.com/NorainAlmajed">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-
-   
-
-<a href="https://www.linkedin.com/in/noorain-almajed/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+<a href="https://github.com/NorainAlmajed"> <img src="https://skillicons.dev/icons?i=github" height="40"/> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/noorain-almajed/"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a>
 
 <br><br>
 
