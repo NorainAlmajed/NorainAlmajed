@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cs,swift,js,html,css,php,firebase,mysql,unity,azure,git,github,vscode,figma&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,python,cs,swift,js,html,css,php,firebase,mysql,unity,azure,git,github,vscode,figma,aws,discord,&perline=6"/>
 
 </div>
 
